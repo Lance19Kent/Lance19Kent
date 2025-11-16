@@ -8,8 +8,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   ![](https://github-readme-stats.vercel.app/api?username=Lance19Kent&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lance19Kent&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lance19Kent&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://nirzak-streak-stats.vercel.app/?user=Lance19Kent&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lance19Kent&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 # 🏆 GitHub Trophies
@@ -17,10 +17,10 @@
   ![](https://github-profile-trophy.vercel.app/?username=Lance19Kent&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Lance19Kent&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=Lance19Kent&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- BEGIN YOUTUBE-CARDS -->
