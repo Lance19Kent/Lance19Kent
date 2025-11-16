@@ -1,4 +1,3 @@
-### HI There, I'm Lance
 # 💫 About Me:
 🔭 I’m currently working on Front-End Development<br>👨🏻‍🎓 I’m a 3rd Year Student in Quezon City University<br>🤝 I’m looking for help with Full-Stack Development
 
