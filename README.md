@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Front-End Technologies</h3>
+<h3 align="left">Front-End Technologies</h3><br><br>
 
 ###
 
@@ -34,7 +34,6 @@
 
 <h3 align="left">Tools & Design</h3>
 
-###
 ###
 
 <div align="left">
