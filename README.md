@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Front-End Development<br>👨🏻‍🎓 I’m a 3rd Year Student in Quezon City University<br>🤝 I’m looking for help with Full-Stack Development</p>
+<p align="left">🔭 I’m currently working on Front-End Development<br>👨🏻‍🎓 I’m a 3rd Year Student in Quezon City University<br>🤝 I’m looking for help with Full-Stack Development</p><br><br>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Front-End Technologies</h3><br><br>
+<h3 align="left">Front-End Technologies</h3>
 
 ###
 
