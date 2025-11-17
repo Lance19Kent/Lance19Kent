@@ -1,7 +1,6 @@
 # 💫 About Me
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![monkeytype.badge]](https://monkeytype.com/profile/___blank)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Monkeytype Badge -->
+[![Monkeytype Badge][monkeytype.badge]](https://monkeytype.com/profile/__blank)
 
 🔭 Working on Front-End Development      👨🏻‍🎓 3rd Year Student in Quezon City University     🤝 Aspiring Full-Stack Developer
 
