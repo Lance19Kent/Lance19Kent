@@ -33,7 +33,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+[![My MonkeyType Stats](PATH_TO_GENERATED_SVG)](https://monkeytype.com/profile/__blank)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # ▶️ Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
