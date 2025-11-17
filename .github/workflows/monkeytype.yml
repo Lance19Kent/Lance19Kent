@@ -14,13 +14,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Use the latest version
 
-      - uses: vnphanquang/monkeytype-readme@main
+      - name: Update Monkeytype Stats
+        # *** SWITCH TO THE MAINTAINED ACTION ***
+        uses: DenverCoder1/monkeytype-readme-stats@latest
         with:
-          monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
-          mode: 'time'
-          mode2: '30'
-          style: 'flat'
-          logoVariant: 'one'
-          label: 'monkeytype'
+          MONKEYTYPE_API_KEY: ${{ secrets.MONKEYTYPE_API_KEY }}
+          # Note: 'mode2' has been changed to 'mode_value'
+          mode: 'time' 
+          mode_value: '30' 
+          # Theme option for this action (using a simple theme)
+          theme: 'radical'
