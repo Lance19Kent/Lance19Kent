@@ -1,6 +1,6 @@
 # 💫 About Me
 <!-- Monkeytype Badge -->
-[![Monkeytype Badge][monkeytype.badge]](https://monkeytype.com/profile/___blank)
+[![monkeytype.badge]](https://monkeytype.com/profile/___blank)
 
 🔭 Working on Front-End Development      👨🏻‍🎓 3rd Year Student in Quezon City University     🤝 Aspiring Full-Stack Developer
 
