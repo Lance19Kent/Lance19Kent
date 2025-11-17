@@ -14,14 +14,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4  m m.
+      # MUST be exactly 'v4' with NO extra spaces
+      - uses: actions/checkout@v4
 
       - name: Update Monkeytype Stats
-        # *** THIS IS THE CORRECT, MAINTAINED ACTION ***
+        # MUST be exactly 'main' with NO extra spaces
         uses: monkeytype-hub/monkeytype-readme@main 
         with:
           MONKEYTYPE_API_KEY: ${{ secrets.MONKEYTYPE_API_KEY }}
-          # The correct inputs for this action
           mode: 'time' 
           mode_value: '30' 
-          theme: 'dark' # Use 'dark' or another Monkeytype theme name
+          theme: 'dark'
