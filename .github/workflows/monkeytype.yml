@@ -14,12 +14,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # MUST be exactly 'v4' with NO extra spaces
       - uses: actions/checkout@v4
 
       - name: Update Monkeytype Stats
-        # MUST be exactly 'main' with NO extra spaces
-        uses: monkeytype-hub/monkeytype-readme@main 
+        # *** CHANGED from @main to @master ***
+        uses: monkeytype-hub/monkeytype-readme@master 
         with:
           MONKEYTYPE_API_KEY: ${{ secrets.MONKEYTYPE_API_KEY }}
           mode: 'time' 
