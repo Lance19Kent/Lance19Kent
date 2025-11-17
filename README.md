@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 I’m currently working on Front-End Development      👨🏻‍🎓 I’m a 3rd Year Student in Quezon City University     🤝 I’m looking for help with Full-Stack Development
+🔭 Working on Front-End Development      👨🏻‍🎓 3rd Year Student in Quezon City University     🤝 Aspiring Full-Stack Developer
 
 
 
