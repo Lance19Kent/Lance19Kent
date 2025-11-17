@@ -2,11 +2,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![monkeytype.badge]](https://monkeytype.com/profile/___blank)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- For just the image -->
-![!monkeytype.badge]
-
-<!-- For clickable image that links to monkeytype website -->
-[![monkeytype.badge]](https://monkeytype.com/)
 
 🔭 Working on Front-End Development      👨🏻‍🎓 3rd Year Student in Quezon City University     🤝 Aspiring Full-Stack Developer
 
