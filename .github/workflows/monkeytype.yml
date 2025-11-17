@@ -6,6 +6,7 @@ on:
     - cron: '0 0 * * 0'
 
 permissions:
+  # This permission is essential for writing to the README
   contents: write
 
 jobs:
@@ -16,11 +17,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update Monkeytype Stats
-        # *** CHANGED from @main to @master ***
+      - name: Update Monkeytype Stats (Using Username)
         uses: monkeytype-hub/monkeytype-readme@master 
         with:
-          MONKEYTYPE_API_KEY: ${{ secrets.MONKEYTYPE_API_KEY }}
-          mode: 'time' 
-          mode_value: '30' 
-          theme: 'dark'
+          # --- CORRECT INPUTS for this action ---
+          
+          # 1. Use your Monkeytype Username instead of the API key
+          username: ___blank # <-- REPLACE THIS with your actual Monkeytype Username
+
+          # 2. Pass the GitHub token for committing the changes
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Optional: Define which themes to fetch (e.g., 'dark,pulse,ocean')
+          themes: 'dark' 
+
+          # Optional: Specify the branch to update (usually not needed for default README)
+          # target-branch: 'main' 
+          
+          # --- END CORRECT INPUTS ---
