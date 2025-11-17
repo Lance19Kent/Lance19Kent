@@ -33,7 +33,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![My MonkeyType Stats](PATH_TO_GENERATED_SVG)](https://monkeytype.com/profile/__blank)
+[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # ▶️ Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
