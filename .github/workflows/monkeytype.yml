@@ -14,15 +14,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4 # Use the latest version
+      - uses: actions/checkout@v4  m m.
 
       - name: Update Monkeytype Stats
-        # *** SWITCH TO THE MAINTAINED ACTION ***
-        uses: DenverCoder1/monkeytype-readme-stats@latest
+        # *** THIS IS THE CORRECT, MAINTAINED ACTION ***
+        uses: monkeytype-hub/monkeytype-readme@main 
         with:
           MONKEYTYPE_API_KEY: ${{ secrets.MONKEYTYPE_API_KEY }}
-          # Note: 'mode2' has been changed to 'mode_value'
+          # The correct inputs for this action
           mode: 'time' 
           mode_value: '30' 
-          # Theme option for this action (using a simple theme)
-          theme: 'radical'
+          theme: 'dark' # Use 'dark' or another Monkeytype theme name
