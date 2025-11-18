@@ -2,10 +2,6 @@
 🔭 Working on Front-End Development      👨🏻‍🎓 3rd Year Student in Quezon City University     🤝 Aspiring Full-Stack Developer
 
 
-<!--START_SECTION:monkeytype-->
-<!--END_SECTION:monkeytype-->
-
-
 
 # 💻 Tools & Technologies
 
