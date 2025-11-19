@@ -20,14 +20,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lance19Kent&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- END GITHUB STATS -->
 
-
+<!-- START GITHUB TROPHIES -->
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Lance19Kent&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!-- END GITHUB TROPHIES -->
 
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Lance19Kent&icon=0&color=0)](https://visitcount.itsvg.in)
 
