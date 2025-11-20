@@ -25,6 +25,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Lance19Kent&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
 <!-- END GITHUB TROPHIES -->
 
 
