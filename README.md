@@ -28,9 +28,9 @@
 ---
 <!-- END GITHUB TROPHIES -->
 
-
+<!-- START VISIT COUNT -->
 [![](https://visitcount.itsvg.in/api?id=Lance19Kent&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- END VISIT COUNT -->
 
 # ▶️ Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
