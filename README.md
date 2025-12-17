@@ -68,7 +68,7 @@ Front-End Development is my playground where logic meets creativity. I love buil
   ## 📺 Latest Tech Tutorial
 
   <a href="https://www.youtube.com/watch?v=smalK_-_Qy4">
-    <img src="https://ytcards.demolab.com/?id=smalK_-_Qy4&title=Oracle+Database+Installation+Guide&lang=en&timestamp=1742280389&background_color=0d1117&title_color=ffffff&stats_color=dedede&max_title_lines=1&width=500&border_radius=10" alt="Oracle Database Tutorial" />
+    <img src="https://ytcards.demolab.com/?id=smalK_-_Qy4&title=Oracle+Database+Installation+Guide&lang=en&timestamp=1742280389&background_color=0d1117&title_color=ffffff&stats_color=dedede&max_title_lines=1&width=300&border_radius=10" alt="Oracle Database Tutorial" />
   </a>
 
   <br/>
