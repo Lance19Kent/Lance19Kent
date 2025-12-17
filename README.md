@@ -88,7 +88,7 @@ Front-End Development is my playground where logic meets creativity. I love buil
   <br/>
 
   <a href="https://www.youtube.com/channel/UCKlE_VQ597besV_VhSYLK2g">
-    <b>View More Videos &rarr;</b>
+    <img src="https://img.shields.io/badge/View_More_Videos-202020?style=for-the-badge&logo=youtube&logoColor=white" alt="View More" />
   </a>
 </div>
 <br/><br/>
