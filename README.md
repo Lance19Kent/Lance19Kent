@@ -54,7 +54,7 @@ Front-End Development is my playground where logic meets creativity. I love buil
 <br/>
 
 <!-- START GITHUB STATS -->
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Lance19Kent&theme=dark&hide_border=false" width="100%"/>
 </div>
