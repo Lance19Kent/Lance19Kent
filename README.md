@@ -39,17 +39,15 @@ Front-End Development is my playground where logic meets creativity. I love buil
 ### **Tools & Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,visualstudio,arduino" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,visualstudio,arduino" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="Trello" />
 </p>
 
 ### **Design**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
+    <img src="https://skillicons.dev/icons?i=figma" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
 </p>
 <br/>
 
@@ -64,36 +62,36 @@ Front-End Development is my playground where logic meets creativity. I love buil
 <!-- END GITHUB STATS -->
 
 <br/>
+
 <div align="left">
 
   ## 📺 Latest Tech Tutorial
 
- <table>
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      <a href="https://www.youtube.com/watch?v=smalK_-_Qy4">
-        <img src="https://ytcards.demolab.com/?id=smalK_-_Qy4&title=Oracle+Database+Installation+Guide&lang=en&timestamp=1742280389&background_color=0d1117&title_color=ffffff&stats_color=dedede&max_title_lines=1&width=400&border_radius=8" alt="Oracle Database Tutorial" />
-      </a>
-    </td>
-    <td width="50%" valign="center">
-      <h2>🚀 Did you Learn Anything?</h2>
-      <h5>
-        Do you crave a knowledge about web development? <br/>
-        Watch my videos in youtube for everyone!
-      </h5>
-      <br/>
-      <a href="https://www.youtube.com/channel/UCKlE_VQ597besV_VhSYLK2g?sub_confirmation=1">
-        <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe" />
-      </a>
-      <br/><br/>
-      <a href="https://www.youtube.com/channel/UCKlE_VQ597besV_VhSYLK2g">
-        <b>View More Videos &rarr;</b>
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://www.youtube.com/watch?v=smalK_-_Qy4">
+    <img src="https://ytcards.demolab.com/?id=smalK_-_Qy4&title=Oracle+Database+Installation+Guide&lang=en&timestamp=1742280389&background_color=0d1117&title_color=ffffff&stats_color=dedede&max_title_lines=1&width=500&border_radius=10" alt="Oracle Database Tutorial" />
+  </a>
 
+  <br/>
+
+</div>
+<div align="center">
+  <h3>🚀 Did you Learn Anything?</h3>
+  <p>
+    Do you crave knowledge about web development? <br/>
+    Watch my videos on YouTube for everyone!
+  </p>
+
+  <a href="https://www.youtube.com/channel/UCKlE_VQ597besV_VhSYLK2g?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe" />
+  </a>
+  
+  <br/>
+
+  <a href="https://www.youtube.com/channel/UCKlE_VQ597besV_VhSYLK2g">
+    <b>View More Videos &rarr;</b>
+  </a>
+</div>
+<br/><br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lance19Kent&color=38B2AC&style=for-the-badge&label=VISITORS" alt="Profile views" />
 </div>
