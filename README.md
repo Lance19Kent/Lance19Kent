@@ -2,6 +2,12 @@
   <img src="./tech-banner.jpg" width="100%" alt="Cyberpunk Banner" />
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Building+Pixels+with+Purpose;Turning+Coffee+into+Code;Crafting+Digital+Experiences;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</div>
+
 <!-- START ABOUT ME -->
 # 💫 About Me
 🔭 Working on Front-End Development      👨🏻‍🎓 3rd Year Student in Quezon City University     🤝 Aspiring Full-Stack Developer
