@@ -16,8 +16,8 @@ Front-End Development is my playground where logic meets creativity. I love buil
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lance19Kent)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lancemagollado)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lancekent@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lancemagollado46@gmail.com)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-323330?style=for-the-badge&logo=monkeytype&logoColor=E2B714)](https://monkeytype.com/profile/___blank))
 <br/>
 
 ## 💻 Tools & Technologies
