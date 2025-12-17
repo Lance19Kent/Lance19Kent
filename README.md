@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="./circuit-cyberspace-closeup-with-neon-lights.jpg" height="300px" width="100%" style="object-fit: cover;" alt="Cyberpunk Banner" />
+</div>
 <!-- START ABOUT ME -->
 # 💫 About Me
 🔭 Working on Front-End Development      👨🏻‍🎓 3rd Year Student in Quezon City University     🤝 Aspiring Full-Stack Developer
