@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lance19Kent/Lance19Kent/main/animated-banner.svg" width="100%" alt="Animated Cyberpunk Banner" />
+  <img src="https://raw.githubusercontent.com/Lance19Kent/Lance19Kent/main/animated-banner.svg?v=6" width="100%" alt="Animated Cyberpunk Banner" />
 </div>
 
 <!-- START ABOUT ME -->
