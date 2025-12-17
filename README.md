@@ -2,11 +2,29 @@
   <img src="https://raw.githubusercontent.com/Lance19Kent/Lance19Kent/main/animated-banner.svg?v=7" width="100%" alt="Animated Cyberpunk Banner" />
 </div>
 
-<!-- START ABOUT ME -->
-# 💫 About Me
-🔭 Working on Front-End Development      👨🏻‍🎓 3rd Year Student in Quezon City University     🤝 Aspiring Full-Stack Developer
-<!-- END ABOUT ME -->
+<h2 align="center">⚡ About Me</h2>
 
+<p align="center">
+  Kamusta! I'm an <strong>IT Student</strong> and <strong>Front-End Developer</strong> from Quezon City. <br>
+  I love combining creativity with logic to build visually stunning and functional websites.
+</p>
+
+<p align="center">
+  🔭 <strong>Currently working on:</strong> Front-End Development & UI/UX Design<br>
+  👨🏻‍🎓 <strong>Education:</strong> 3rd Year Student at Quezon City University<br>
+  🤝 <strong>Goal:</strong> To become a Full-Stack Developer
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lance19Kent">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/lancemagollado"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lancekent@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+<br/>
 <!-- START TOOLS AND TECHNOLOGIES -->
 # 💻 Tools & Technologies
 
