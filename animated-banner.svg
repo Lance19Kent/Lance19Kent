@@ -23,7 +23,7 @@
                 .typing-text {
                     color: #FFFFFF;
                     font-size: 35px;
-                    font-weight: bold;
+                    font-weight: 600;
                     overflow: hidden;
                     border-right: .15em solid orange;
                     white-space: nowrap;
@@ -41,7 +41,7 @@
             
             <div class="container">
                 <div class="text-wrapper">
-                    <h1 class="typing-text">> Building Pixels with Purpose</h1>
+                    <h1 class="typing-text">Building Pixels with Purpose</h1>
                 </div>
             </div>
         </div>
