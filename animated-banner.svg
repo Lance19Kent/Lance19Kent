@@ -1,0 +1,36 @@
+<svg fill="none" viewBox="0 0 1200 400" width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					position: relative;
+					width: 100%;
+					height: 0;
+					padding-bottom: 33.33%; /* Aspect ratio ng banner */
+				}
+				.background-image {
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					object-fit: cover;
+					z-index: 1;
+				}
+				.overlay-text {
+					position: absolute;
+					bottom: 20px; /* Adjust para tumaas/bumaba */
+					left: 20px;   /* Adjust para pumunta sa kanan/kaliwa */
+					z-index: 10;
+				}
+			</style>
+			<div class="container">
+				<img class="background-image" src="https://raw.githubusercontent.com/Lance19Kent/Lance19Kent/refs/heads/main/tech-banner.jpg" alt="Cyberpunk Banner"/>
+				
+				<div class="overlay-text">
+					<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&width=600&lines=%3E_+Building+Pixels+with+Purpose;%3E_+Turning+Coffee+into+Code;%3E_+Crafting+Digital+Experiences;%3E_+Always+Learning+New+Tech" alt="Typing SVG" />
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
