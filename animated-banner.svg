@@ -55,14 +55,14 @@
                     
                     /* TEXT 2: Turning Coffee into Code */
                     31%  { content: "Turning Coffee into Code"; width: 0; }
-                    45%  { content: "Turning Coffee into Code"; width: 85%; } /* 85% para di sobrang haba */
-                    55%  { content: "Turning Coffee into Code"; width: 85%; }
+                    45%  { content: "Turning Coffee into Code"; width: 100%; } /* 85% para di sobrang haba */
+                    55%  { content: "Turning Coffee into Code"; width: 100%; }
                     60%  { content: "Turning Coffee into Code"; width: 0; }
 
                     /* TEXT 3: Aspiring Full-Stack Dev */
                     61%  { content: "Aspiring Full-Stack Dev"; width: 0; }
-                    75%  { content: "Aspiring Full-Stack Dev"; width: 85%; }
-                    85%  { content: "Aspiring Full-Stack Dev"; width: 85%; }
+                    75%  { content: "Aspiring Full-Stack Dev"; width: 100%; }
+                    85%  { content: "Aspiring Full-Stack Dev"; width: 100%; }
                     90%  { content: "Aspiring Full-Stack Dev"; width: 0; }
 
                     /* Loop back */
