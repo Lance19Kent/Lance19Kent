@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./technology-banner.jpg" height="300" alt="Cyberpunk Banner" />
+  <img src="./tech-banner.jpg" height="300" alt="Cyberpunk Banner" />
 </div>
 <!-- START ABOUT ME -->
 # 💫 About Me
