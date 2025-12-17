@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="./tech-banner.jpg" width="100%" alt="Cyberpunk Banner" />
+  <img src="https://raw.githubusercontent.com/Lance19Kent/Lance19Kent/main/animated-banner.svg" width="100%" alt="Animated Cyberpunk Banner" />
 </div>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ffffff&vCenter=true&width=600&lines=Building+Pixels+with+Purpose;Turning+Coffee+into+Code;Crafting+Digital+Experiences;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a>
-
 
 <!-- START ABOUT ME -->
 # 💫 About Me
