@@ -14,7 +14,7 @@
                     font-family: 'Courier New', Courier, monospace;
                 }
                 .text-wrapper {
-                    margin-left: 50px; /* Adjust distance from left */
+                    margin-left: 100px; /* Adjust distance from left */
                     background: rgba(0, 0, 0, 0.6); /* Dark background para mabasa text */
                     padding: 20px;
                     border-radius: 10px;
