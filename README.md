@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./circuit-cyberspace-closeup-with-neon-lights.jpg" height="300px" width="100%" style="object-fit: cover;" alt="Cyberpunk Banner" />
+  <img src="./technology-banner.jpg" height="300px" width="100%" style="object-fit: cover;" alt="Cyberpunk Banner" />
 </div>
 <!-- START ABOUT ME -->
 # 💫 About Me
