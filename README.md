@@ -2,9 +2,10 @@
   <img src="./tech-banner.jpg" width="100%" alt="Cyberpunk Banner" />
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&width=600&lines=%3E_+Building+Pixels+with+Purpose;%3E_+Turning+Coffee+into+Code;%3E_+Crafting+Digital+Experiences;%3E_+Always+Learning+New+Tech" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Building+Pixels+with+Purpose;Front-End+Developer;IT+Student+at+QCU;Aspiring+Full-Stack+Dev" alt="Typing SVG" />
+  </a>
+
 
 <!-- START ABOUT ME -->
 # 💫 About Me
