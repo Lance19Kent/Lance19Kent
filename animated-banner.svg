@@ -46,29 +46,25 @@
                    20-30%: Delete Text 1
                    30-50%: Type Text 2 ...
                 */
-                @keyframes changeText {
-                    /* TEXT 1: Building Pixels with Purpose */
-                    0%   { content: "Building Pixels with Purpose"; width: 0; }
-                    15%  { content: "Building Pixels with Purpose"; width: 100%; } 
-                    25%  { content: "Building Pixels with Purpose"; width: 100%; } 
-                    30%  { content: "Building Pixels with Purpose"; width: 0; }
-                    
-                    /* TEXT 2: Turning Coffee into Code */
-                    31%  { content: "Turning Coffee into Code"; width: 0; }
-                    45%  { content: "Turning Coffee into Code"; width: 100%; } /* 85% para di sobrang haba */
-                    55%  { content: "Turning Coffee into Code"; width: 100%; }
-                    60%  { content: "Turning Coffee into Code"; width: 0; }
+             @keyframes changeText {
+                    /* --- PHRASE 1: 0% to 33% --- */
+                    0%    { width: 0; content: "Building Pixels with Purpose"; }
+                    10%   { width: 100%; content: "Building Pixels with Purpose"; } /* Type finishes */
+                    25%   { width: 100%; content: "Building Pixels with Purpose"; } /* Read time */
+                    33%   { width: 0; content: "Building Pixels with Purpose"; }    /* Delete finishes */
 
-                    /* TEXT 3: Aspiring Full-Stack Dev */
-                    61%  { content: "Aspiring Full-Stack Dev"; width: 0; }
-                    75%  { content: "Aspiring Full-Stack Dev"; width: 100%; }
-                    85%  { content: "Aspiring Full-Stack Dev"; width: 100%; }
-                    90%  { content: "Aspiring Full-Stack Dev"; width: 0; }
+                    /* --- PHRASE 2: 33% to 66% --- */
+                    33.1% { width: 0; content: "Turning Coffee into Code"; }        /* Swap text instantly */
+                    43%   { width: 100%; content: "Turning Coffee into Code"; }
+                    58%   { width: 100%; content: "Turning Coffee into Code"; }
+                    66%   { width: 0; content: "Turning Coffee into Code"; }
 
-                    /* Loop back */
-                    100% { content: "Building Pixels with Purpose"; width: 0; }
+                    /* --- PHRASE 3: 66% to 100% --- */
+                    66.1% { width: 0; content: "Aspiring Full-Stack Dev"; }
+                    76%   { width: 100%; content: "Aspiring Full-Stack Dev"; }
+                    91%   { width: 100%; content: "Aspiring Full-Stack Dev"; }
+                    100%  { width: 0; content: "Aspiring Full-Stack Dev"; }         /* Sakto sa dulo! */
                 }
-
                 /* Blink effect sa cursor */
                 @keyframes blink {
                     50% { border-color: transparent; }
