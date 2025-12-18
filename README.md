@@ -4,9 +4,9 @@
 
 <br/>
 
-## ⚡ About Me
+## ⚡ About Me 
 
-> *Hi! I'm **Lance**, an IT Student and aspiring Full-Stack Developer.*
+> *Hi! I'm **Lance**, an IT Student and aspiring Full-Stack Developer.* 
 
 Front-End Development is my current playground where logic meets creativity. I love building intuitive user interfaces and crafting smooth digital experiences.
 
@@ -18,6 +18,8 @@ Front-End Development is my current playground where logic meets creativity. I l
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lancemagollado)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lancemagollado46@gmail.com)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-323330?style=for-the-badge&logo=monkeytype&logoColor=E2B714)](https://monkeytype.com/profile/___blank)
+<img src="https://img.shields.io/badge/CODETIME-0%20HRS%202%20MINS-blue?style=for-the-badge&logo=wakatime&logoColor=white&color=323330" alt="WakaTime Badge" />
+<!-- <img src="https://img.shields.io/wakatime/aggregate/all/Lance19Kent?style=for-the-badge&logo=wakatime&label=CODETIME&color=323330&logoColor=white" alt="WakaTime Badge" /> -->
 <br/>
 
 ## 💻 Tools & Technologies
@@ -55,9 +57,6 @@ Front-End Development is my current playground where logic meets creativity. I l
 ## 📊 GitHub Stats
 <div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Lance19Kent&theme=dark&hide_border=false" width="100%"/>
-</div>
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lance19Kent&theme=dark&layout=compact&hide_border=false&range=all_time&cache_seconds=0" alt="WakaTime Stats" width="100%"/>
 </div>
 <!-- END GITHUB STATS -->
 
