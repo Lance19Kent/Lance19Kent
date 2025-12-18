@@ -56,8 +56,8 @@ Front-End Development is my playground where logic meets creativity. I love buil
 <div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Lance19Kent&theme=dark&hide_border=false" width="100%"/>
 </div>
-<div align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lance19Kent&theme=dark&layout=compact&hide_border=false&range=all_time&cache_seconds=0" alt="WakaTime Stats" />
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lance19Kent&theme=dark&layout=compact&hide_border=false&range=all_time&cache_seconds=0" alt="WakaTime Stats" width="100%"/>
 </div>
 <!-- END GITHUB STATS -->
 
