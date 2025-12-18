@@ -66,8 +66,6 @@ Front-End Development is my current playground where logic meets creativity. I l
   </div>
 <!-- END GITHUB STATS -->
 
-<br/>
-
 <div align="left">
 
   ## 📺 Latest Tech Tutorial
