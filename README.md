@@ -8,7 +8,7 @@
 
 > *Hi! I'm **Lance**, an IT Student and aspiring Full-Stack Developer.*
 
-Front-End Development is my playground where logic meets creativity. I love building intuitive user interfaces and crafting smooth digital experiences.
+Front-End Development is my current playground where logic meets creativity. I love building intuitive user interfaces and crafting smooth digital experiences.
 
 - 🔭 **Currently working on:** Front-End Development & UI/UX Design
 - 👨🏻‍🎓 **Education:** 3rd Year Student at Quezon City University
