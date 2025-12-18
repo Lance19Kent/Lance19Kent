@@ -18,8 +18,7 @@ Front-End Development is my current playground where logic meets creativity. I l
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lancemagollado)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lancemagollado46@gmail.com)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-323330?style=for-the-badge&logo=monkeytype&logoColor=E2B714)](https://monkeytype.com/profile/___blank)
-<img src="https://img.shields.io/badge/CODETIME-0%20HRS%202%20MINS-blue?style=for-the-badge&logo=wakatime&logoColor=white&color=323330" alt="WakaTime Badge" />
-<!-- <img src="https://img.shields.io/wakatime/aggregate/all/Lance19Kent?style=for-the-badge&logo=wakatime&label=CODETIME&color=323330&logoColor=white" alt="WakaTime Badge" /> -->
+
 <br/>
 
 ## 💻 Tools & Technologies
@@ -57,7 +56,14 @@ Front-End Development is my current playground where logic meets creativity. I l
 ## 📊 GitHub Stats
 <div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Lance19Kent&theme=dark&hide_border=false" width="100%"/>
+
 </div>
+
+  <br/>
+  <div align="center">
+      <img src="https://img.shields.io/badge/CODETIME-0%20HRS%202%20MINS-blue?style=for-the-badge&logo=wakatime&logoColor=white&color=323330" alt="WakaTime Badge" />
+<!-- <img src="https://img.shields.io/wakatime/aggregate/all/Lance19Kent?style=for-the-badge&logo=wakatime&label=CODETIME&color=323330&logoColor=white" alt="WakaTime Badge" /> -->
+  </div>
 <!-- END GITHUB STATS -->
 
 <br/>
