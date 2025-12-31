@@ -63,7 +63,8 @@ Front-End Development is my current playground where logic meets creativity. I l
   <br/>
   <div align="center">
       <!-- <img src="https://img.shields.io/badge/CODETIME-0%20HRS%202%20MINS-blue?style=for-the-badge&logo=wakatime&logoColor=white&color=323330" alt="WakaTime Badge" /> -->
-<img src="https://img.shields.io/wakatime/aggregate/all/Lance19Kent?style=for-the-badge&logo=wakatime&label=CODETIME&color=323330&logoColor=white" alt="WakaTime Badge" />
+<!-- <img src="https://img.shields.io/wakatime/aggregate/all/Lance19Kent?style=for-the-badge&logo=wakatime&label=CODETIME&color=323330&logoColor=white" alt="WakaTime Badge" /> -->
+    <img src="https://wakatime.com/badge/user/b5eb51f8-dc0d-4c9a-83ab-beab26967e55.svg?style=for-the-badge&logo=wakatime&label=CODETIME&color=323330&logoColor=white" alt="WakaTime Badge" />
   </div>
 <!-- END GITHUB STATS -->
 
