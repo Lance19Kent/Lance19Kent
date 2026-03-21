@@ -1,7 +1,8 @@
+<!-- MY BANNER ANIMATED -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lance19Kent/Lance19Kent/main/animated-banner.svg?v=7" width="100%" alt="Cyberpunk Banner" />
 </div>
-
+<!-- /MY BANNER ANIMATED -->
 <br/>
 
 ## ⚡ About Me 
