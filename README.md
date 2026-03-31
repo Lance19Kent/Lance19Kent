@@ -56,7 +56,7 @@ Front-End Development is my current playground where logic meets creativity. I l
 <!-- START GITHUB STATS -->
 ## 📊 GitHub Stats
 <div>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Lance19Kent&theme=dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lance19Kent&theme=dark" alt="GitHub Streak" /></a>
 
 </div>
 
